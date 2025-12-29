@@ -1,2 +1,3 @@
 # v0323.github.io
-For the privacy policy and other important documents, head over to https://sites.google.com/view/superantstudiosinfo/home.
+The official Super Ant Studio website is under construction.
+For the privacy policy and other important documents, head over to our [Super Ant Studios Info Website](https://sites.google.com/view/superantstudiosinfo/home).
